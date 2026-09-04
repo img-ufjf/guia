@@ -229,6 +229,10 @@ img {
     color: #4db6ac;
 }
 
+.item_grgr {
+    text-align: center;
+}
+
 .item_grgr a:link {
     color: #9d9c9c;
     text-decoration: none;
