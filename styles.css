@@ -35,7 +35,8 @@ img {
 }
 
 .imglnk:hover {
-    filter: brightness(150%);
+    background-color: #FF0000;
+    filter: opacity(50%);
 }
 
 .rd {
