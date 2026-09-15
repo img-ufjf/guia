@@ -35,7 +35,7 @@ img {
 }
 
 .imglnk:hover {
-    filter: blur(8px);
+    filter: blur(2px);
 }
 
 .rd {
