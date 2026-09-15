@@ -34,8 +34,8 @@ img {
     display: inline-block;
 }
 
-.imglnk img:hover {
-  filter: blur(8px);
+.imglnk:hover {
+    filter: blur(8px);
 }
 
 .rd {
