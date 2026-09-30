@@ -202,6 +202,10 @@ img {
     }
 }
 
+.item_whwh {
+    height: 100%;
+}
+
 .item_whwh a:link {
     color: #ffffff;
     text-decoration: none;
