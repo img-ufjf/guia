@@ -60,7 +60,7 @@ img {
     width: auto;
     margin: 0;
     padding: 32px;
-    grid-template-rows: auto 50% 50% auto;
+    grid-template-rows: auto 100% 100% auto;
     background-color: #d32f2f;
     text-align: left;
     font-family: "Open Sans", sans-serif;
