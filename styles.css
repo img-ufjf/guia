@@ -177,6 +177,7 @@ img {
     margin: 0;
     padding: 0 0 32px 0;
     align-content: right;
+    text-align: right;
 }
 
 .titulo {
