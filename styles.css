@@ -172,6 +172,7 @@ img {
 
 .cabecalho {
     display: grid;
+    border: 1px;
     grid-template-columns: auto 36px;
     margin: 0;
     padding: 0 0 32px 0;
